@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/digitaler-Schulhof\/Klassenzimmer.json"
+                 "value":"\/_\/global\/kathass.github.io\/digitaler-Schulhof\/Klassenzimmer.json"
                 }],
          "type":"tilelayer",
          "visible":true,
