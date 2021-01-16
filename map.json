@@ -22,7 +22,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/stadtlandflussonline.net\/new-game.xhtml"
                 }],
