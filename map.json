@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stadtlandflussonline.net\/new-game.xhtml"
+                 "value":"https:\/\/stadtlandflussonline.net\/"
                 }],
          "type":"tilelayer",
          "visible":true,
